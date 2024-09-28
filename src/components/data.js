@@ -3,7 +3,7 @@ export const quizData = {
     topic: 'Random General Knowledge',
     level: 'Intermediate',
     totalQuestions: 10,
-    perQuestionScore: 5,
+    perQuestionScore: 2,
     questions: [
       {
         question: 'Which planet is known as the Red Planet?',
